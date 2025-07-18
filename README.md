@@ -5,7 +5,7 @@
 🚀 Passionate about building real-world backend systems and APIs  
 🌱 Currently improving my skills in multithreading, unit testing, and SOLID principles  
 📫 Email: aloidin.akram@gmail.com  
-💬 Telegram: [@aloidinbek](https://t.me/Aloidin)
+💬 Telegram: [@A'loidin](https://t.me/Aloidin)
 
 ---
 
