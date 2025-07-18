@@ -4,7 +4,8 @@
 💻 Junior .NET Developer | C# | ASP.NET Core | EF Core | SQL Server  
 🚀 Passionate about building real-world backend systems and APIs  
 🌱 Currently improving my skills in multithreading, unit testing, and SOLID principles  
-📫 Reach me at: aloidin.akram@gmail.com
+📫 Email: aloidin.akram@gmail.com  
+💬 Telegram: [@aloidinbek](https://t.me/aloidinbek)
 
 ---
 
