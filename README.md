@@ -11,7 +11,7 @@
 
 ## 🛠 Tech Stack
 - 💻 **Languages:** C#, SQL, HTML/CSS, JavaScript (basic)  
-- 🔧 **Frameworks & Tools:** ASP.NET Core, Entity Framework Core, WinForms, Git, GitHub, Postman  
+- 🔧 **Frameworks & Tools:** ASP.NET Core, Entity Framework Core
 - 🛢 **Databases:** SQL Server, SQLite  
 - 🌐 **Learning:** Clean Architecture, Domain-Driven Design (DDD), Microservices  
 
