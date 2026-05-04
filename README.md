@@ -1,7 +1,7 @@
 # 👋 Hello, I'm A'loidinbek Akramov
 
 🎓 Bachelor of Computer Engineering (FSTU, 2025)  
-💻 Junior .NET Developer | C# | ASP.NET Core | EF Core | SQL Server  
+💻 .NET Developer | C# | ASP.NET Core | EF Core | SQL Server  
 🚀 Passionate about building real-world backend systems and APIs  
 🌱 Currently improving my skills in multithreading, unit testing, and SOLID principles  
 📫 Email: aloidin.akram@gmail.com  
